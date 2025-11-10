@@ -1,5 +1,17 @@
 ![](./img/banner.png)
 
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
+  <a href="https://wa.me/3105261024" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/enrique-corpus-9a1b9a329/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+
+</div>
+
 # Bienvenido a mi GitHub 
 
 Hola Soy Desarrollador en formación. Me gusta construir ideas que mezclen lógica, estrategia y creatividad.
@@ -13,7 +25,6 @@ Hola Soy Desarrollador en formación. Me gusta construir ideas que mezclen lógi
 
 ## Proyectos Destacados
 
-### JavaScript
 
 <table>
   <tr>
@@ -26,7 +37,7 @@ Hola Soy Desarrollador en formación. Me gusta construir ideas que mezclen lógi
       </a>
     </td>
     <td align="center">
-      <p><strong>Buscador de Pokemon</strong></p>
+      <p><strong>Buscador de Pokemones</strong></p>
       <img src="./img/pokemon.gif" width="200px">
       <br>
       <a href="https://kikecorpus.github.io/JavaScript_S2_CorpusEnrique/Dia9%20/">
@@ -35,4 +46,4 @@ Hola Soy Desarrollador en formación. Me gusta construir ideas que mezclen lógi
     </td>
   </tr>
 </table>
-<p> Los proyectos desarrollados con JavaScript están enfocados en fortalecer la lógica de programación, el manejo de datos y la creación de funcionalidades interactivas. A través de estos ejercicios, he trabajado conceptos clave como estructuras de control, manejo del DOM, funciones, ciclos, arrays, objetos y construcción de interfaces simples.</p>
+<p> Los proyectos estan desarrollados con HTML,CSS y JavaScript están enfocados en fortalecer la lógica de programación, el manejo de datos y la creación de funcionalidades interactivas. A través de estos ejercicios, he trabajado conceptos clave como consumo de apis res, manejo del DOM, funciones, ciclos, arrays, objetos y construcción de interfaces simples.</p>
