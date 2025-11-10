@@ -15,23 +15,24 @@ Hola Soy Desarrollador en formación. Me gusta construir ideas que mezclen lógi
 
 ### JavaScript
 
-<div style = "display: flex; gap: 1rem" > 
-
-<div style="text-align: center;">
-<p>Juego de Poker</p>
-<img src="./img/poker.gif" width="200px">
-
-<a href="https://kikecorpus.github.io/JavaScript_S2_CorpusEnrique/Dia10/">![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-</a>
-</div>
-
-<div style="text-align: center;">
-
-<p>Buscador de Pokemon</p>
-<img src="./img/pokemon.gif" width="200px">
-
-<a href="https://kikecorpus.github.io/JavaScript_S2_CorpusEnrique/Dia9%20/">![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-</a>
-</div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <p><strong>Juego de Poker</strong></p>
+      <img src="./img/poker.gif" width="200px">
+      <br>
+      <a href="https://kikecorpus.github.io/JavaScript_S2_CorpusEnrique/Dia10/">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+    </td>
+    <td align="center">
+      <p><strong>Buscador de Pokemon</strong></p>
+      <img src="./img/pokemon.gif" width="200px">
+      <br>
+      <a href="https://kikecorpus.github.io/JavaScript_S2_CorpusEnrique/Dia9%20/">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+    </td>
+  </tr>
+</table>
 <p> Los proyectos desarrollados con JavaScript están enfocados en fortalecer la lógica de programación, el manejo de datos y la creación de funcionalidades interactivas. A través de estos ejercicios, he trabajado conceptos clave como estructuras de control, manejo del DOM, funciones, ciclos, arrays, objetos y construcción de interfaces simples.</p>
