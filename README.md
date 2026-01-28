@@ -12,16 +12,41 @@
 
 </div>
 
-# Bienvenido a mi GitHub 
+## 👨‍💻 Sobre Mí
 
-Hola Soy Desarrollador en formación. Me gusta construir ideas que mezclen lógica, estrategia y creatividad.
+Soy un desarrollador en formación con pasión por transformar ideas creativas en soluciones tecnológicas funcionales. Mi enfoque combina **lógica**, **estrategia** y **creatividad** para construir aplicaciones web interactivas y eficientes.
 
-## Habilidades
-[![My Skills](https://skillicons.dev/icons?i=py,github,html,css,js,mysql,mongodb,nodejs)](https://skillicons.dev)
+- 🔭 Actualmente trabajando en proyectos con **Java** y **SpringBoot**
+- 🌱 Aprendiendo constantemente nuevas tecnologías del ecosistema web
+- 💡 Interesado en desarrollo full stack y arquitectura de software
+- 🎯 Objetivo: Convertirme en un desarrollador senior especializado en tecnologías modernas
 
-## Actualmente Aprendiendo
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+---
+## 🛠️ Stack Tecnológico
+
+### Lenguajes & Frameworks
+<div align="center">
+  
+[![My Skills](https://skillicons.dev/icons?i=js,py,html,css,java,spring)](https://skillicons.dev)
+
+</div>
+
+### Bases de Datos
+<div align="center">
+  
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+
+</div>
+
+### Herramientas & Plataformas
+<div align="center">
+  
+[![My Skills](https://skillicons.dev/icons?i=github,git,vscode,postman)](https://skillicons.dev)
+
+</div>
+
+---
 
 ## Proyectos Destacados
 
@@ -46,4 +71,39 @@ Hola Soy Desarrollador en formación. Me gusta construir ideas que mezclen lógi
     </td>
   </tr>
 </table>
-<p> Los proyectos estan desarrollados con HTML,CSS y JavaScript están enfocados en fortalecer la lógica de programación, el manejo de datos y la creación de funcionalidades interactivas. A través de estos ejercicios, he trabajado conceptos clave como consumo de apis res, manejo del DOM, funciones, ciclos, arrays, objetos y construcción de interfaces simples.</p>
+### 💼 Enfoque de Desarrollo
+
+Estos proyectos reflejan mi compromiso con el aprendizaje continuo y la aplicación práctica de conceptos fundamentales:
+
+- 🎯 **Lógica de Programación:** Resolución de problemas complejos con código limpio y eficiente
+- 🔄 **Consumo de APIs:** Integración de servicios externos y manejo de datos asíncronos
+- 🎨 **Manipulación del DOM:** Creación de experiencias interactivas y dinámicas
+- 📊 **Estructuras de Datos:** Uso efectivo de arrays, objetos y funciones
+- 🖼️ **Interfaces de Usuario:** Diseño responsive y centrado en la experiencia del usuario
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kikecorpus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kikecorpus&layout=compact&theme=tokyonight&hide_border=true)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kikecorpus&theme=tokyonight&hide_border=true)
+
+</div>
+## 🤝 Conectemos
+
+Estoy siempre abierto a colaborar en proyectos interesantes, compartir conocimientos y conectar con otros desarrolladores.
+
+<div align="center">
+
+**¿Tienes una idea? ¡Hablemos!**
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/3105261024)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-corpus-9a1b9a329/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@example.com)
+
+---
