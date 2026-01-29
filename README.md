@@ -71,6 +71,7 @@ Soy un desarrollador en formación con pasión por transformar ideas creativas e
     </td>
   </tr>
 </table>
+
 ### 💼 Enfoque de Desarrollo
 
 Estos proyectos reflejan mi compromiso con el aprendizaje continuo y la aplicación práctica de conceptos fundamentales:
@@ -94,6 +95,7 @@ Estos proyectos reflejan mi compromiso con el aprendizaje continuo y la aplicaci
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kikecorpus&theme=tokyonight&hide_border=true)
 
 </div>
+
 ## 🤝 Conectemos
 
 Estoy siempre abierto a colaborar en proyectos interesantes, compartir conocimientos y conectar con otros desarrolladores.
